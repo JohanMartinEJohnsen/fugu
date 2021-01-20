@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fugu/static/css/main.c13174b4.chunk.css",
+    "main.js": "/fugu/static/js/main.42b03604.chunk.js",
+    "main.js.map": "/fugu/static/js/main.42b03604.chunk.js.map",
+    "runtime~main.js": "/fugu/static/js/runtime~main.f5aac34c.js",
+    "runtime~main.js.map": "/fugu/static/js/runtime~main.f5aac34c.js.map",
+    "static/js/2.f0cf8a4e.chunk.js": "/fugu/static/js/2.f0cf8a4e.chunk.js",
+    "static/js/2.f0cf8a4e.chunk.js.map": "/fugu/static/js/2.f0cf8a4e.chunk.js.map",
+    "index.html": "/fugu/index.html",
+    "precache-manifest.6558454c363e44539c769ebe3f90fdf2.js": "/fugu/precache-manifest.6558454c363e44539c769ebe3f90fdf2.js",
+    "service-worker.js": "/fugu/service-worker.js",
+    "static/css/main.c13174b4.chunk.css.map": "/fugu/static/css/main.c13174b4.chunk.css.map"
+  }
+}
