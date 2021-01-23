@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fugu/static/css/main.df920ec9.chunk.css",
-    "main.js": "/fugu/static/js/main.c6060f87.chunk.js",
-    "main.js.map": "/fugu/static/js/main.c6060f87.chunk.js.map",
+    "main.js": "/fugu/static/js/main.36a05e17.chunk.js",
+    "main.js.map": "/fugu/static/js/main.36a05e17.chunk.js.map",
     "runtime~main.js": "/fugu/static/js/runtime~main.f5aac34c.js",
     "runtime~main.js.map": "/fugu/static/js/runtime~main.f5aac34c.js.map",
     "static/js/2.cb926a8c.chunk.js": "/fugu/static/js/2.cb926a8c.chunk.js",
     "static/js/2.cb926a8c.chunk.js.map": "/fugu/static/js/2.cb926a8c.chunk.js.map",
     "index.html": "/fugu/index.html",
-    "precache-manifest.a5a334d97ee4e53ea70829624d5c6b6a.js": "/fugu/precache-manifest.a5a334d97ee4e53ea70829624d5c6b6a.js",
+    "precache-manifest.f1eca46b0c55c98e22c2f15c34387438.js": "/fugu/precache-manifest.f1eca46b0c55c98e22c2f15c34387438.js",
     "service-worker.js": "/fugu/service-worker.js",
     "static/css/main.df920ec9.chunk.css.map": "/fugu/static/css/main.df920ec9.chunk.css.map"
   }

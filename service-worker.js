@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fugu/precache-manifest.a5a334d97ee4e53ea70829624d5c6b6a.js"
+  "/fugu/precache-manifest.f1eca46b0c55c98e22c2f15c34387438.js"
 );
 
 self.addEventListener('message', (event) => {
