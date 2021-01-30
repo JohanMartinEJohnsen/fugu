@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68420e89360dbb9a5e7584f3b1e93991",
+    "revision": "3f5cfd9b8404a8694d02441eec02744c",
     "url": "/fugu/index.html"
   },
   {
-    "revision": "196ce6009c72360dae2a",
+    "revision": "78e117a7461327fe1994",
     "url": "/fugu/static/css/main.df920ec9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fugu/static/js/2.cb926a8c.chunk.js"
   },
   {
-    "revision": "196ce6009c72360dae2a",
-    "url": "/fugu/static/js/main.36a05e17.chunk.js"
+    "revision": "78e117a7461327fe1994",
+    "url": "/fugu/static/js/main.0c829c33.chunk.js"
   },
   {
     "revision": "42f867ce1799025b333f",
